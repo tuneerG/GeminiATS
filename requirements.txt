@@ -1,4 +1,6 @@
 streamlit
+google
 google-generativeai
 python-dotenv
 pdf2image
+poppler_utils-0.1.0

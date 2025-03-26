@@ -130,6 +130,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.poppler-24.08.0
+poppler-24.08.0/
 env/
 venv/
 ENV/
